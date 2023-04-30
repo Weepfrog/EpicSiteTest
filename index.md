@@ -8,5 +8,5 @@ title: Gooofy goober website
 <details>
       <summary>this is a dropdown</summary>
       <br>
-      [a relitave link](EpicSiteTest/aboutThisSite.md)
+      [a relitave link](https://github.com/Weepfrog/EpicSiteTest/blob/main/aboutThisSite.md)
     </details>
