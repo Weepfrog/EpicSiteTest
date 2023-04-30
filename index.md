@@ -8,5 +8,5 @@ title: Gooofy goober website
 <details>
       <summary>this is a dropdown</summary>
       <br>
-      [this is a link to the about me page](aboutThisSite.md)
+      [a relitave link](EpicSiteTest/aboutThisSite.md)
     </details>
