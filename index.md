@@ -8,6 +8,5 @@ title: Gooofy goober website
 <details>
       <summary>this is a dropdown</summary>
       <br>
-      this is stuff in the dropdown 
       [this is a link to the about me page](aboutThisSite.md)
     </details>
