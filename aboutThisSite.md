@@ -6,4 +6,5 @@ title: this is a bit about my site
 
 <h1> this is a goofy little test site i made </h1>
 
-<button>this is a button</button> 
+
+[Click me](http://www.google.com){: .btn}
